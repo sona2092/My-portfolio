@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Frontend Trainee",
+    "organisation": "Meta Scifor",
+    "startDate": "May, 2024",
+    "endDate": "Sept, 2024",
+    "experiences": ["Learned JS libraries", "Honed skills in frontend development"],
+    "imageSrc": "history/meta.png"
+  },
+  {
+    "role": "Project Intern",
+    "organisation": "Abhyaz",
+    "startDate": "Jan, 2024",
+    "endDate": "Apr, 2024",
+    "experiences": ["Worked on Zoho Sites", "Designed the company's website"],
+    "imageSrc": "history/abhyaz.png"
+  },
+  {
+    "role": "Intern",
+    "organisation": "CodeClause",
+    "startDate": "Aug, 2023",
+    "endDate": "Sept, 2023",
+    "experiences": [
+      "Worked on various tasks",
+      "Learned time management"
+    ],
+    "imageSrc": "history/cc.png"
+  }
+]

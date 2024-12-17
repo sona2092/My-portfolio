@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Food Delivery App",
+    "imageSrc": "projects/project1.png",
+    "description": "Developed a responsive Food Delivery Application using HTML, CSS, and JavaScript.",
+    "skills": ["HTML", "CSS", "JS"],
+    "demo": "https://food-app-delivery-project.netlify.app/",
+    "source": "https://github.com/sona2092/Food-App-Project"
+  },
+  {
+    "title": "Event Management Site",
+    "imageSrc": "projects/project2.png",
+    "description": "A comprehensive web application that makes event management and planning easier.",
+    "skills": ["HTML", "CSS", "JS","PHP","MySQL"],
+    "demo": "https://event-manage-system.netlify.app/",
+    "source": "https://github.com/sona2092/Event-Management-System"
+  },
+  {
+    "title": "Keeper App",
+    "imageSrc": "projects/project3.png",
+    "description": "A ReactJS-based Keeper App, likely inspired by Google Keep.",
+    "skills": ["React", "HTML", "CSS"],
+    "demo": "https://keeper-app-react-pro.netlify.app/",
+    "source": "https://github.com/sona2092/Keeper-App"
+  }
+]
