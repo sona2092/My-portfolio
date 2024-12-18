@@ -13,8 +13,8 @@ export const Hero = () => {
           technologies and programming languages like Java and C++, ready to
           dive into development and bring creative solutions to life.
         </p>
-        <a href="mailto:sonali.kumari0224@gmail.com" className={styles.contactBtn}>
-          Contact Me
+        <a href="https://drive.google.com/file/d/1y6nLD-uCA-bOL-4CMJwt3fwC-_CAdxro/view?usp=sharing" className={styles.contactBtn}>
+          Download Resume
         </a>
       </div>
       <img
